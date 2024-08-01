@@ -14,7 +14,7 @@ getgenv().settings = { -- simplified settings cause i dont like the way getgenv(
 	Prediction = randomsilentaim.SilentAim.Prediction,
 	HitPart = randomsilentaim.SilentAim.HitPart,
 	ClosestPart = randomsilentaim.SilentAim.HitClosestBodyPart,
-    HitClosestPoint = randomsilentaim.SilentAim.HitClosestPoint
+    HitClosestPoint = randomsilentaim.SilentAim.HitClosestPoint,
     JumpOffset = randomsilentaim.SilentAim.JumpOffset,
 
 	FOV = randomsilentaim.FOV.Enabled,
